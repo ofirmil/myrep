@@ -1,0 +1,4 @@
+[submodule "my_subway"]
+	path = my_subway
+	url = https://github.com/ofirmil/subway
+	branch = master
